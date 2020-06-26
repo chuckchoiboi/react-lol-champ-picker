@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-lol-champ-picker/static/css/main.53d6be6e.chunk.css",
+    "main.js": "/react-lol-champ-picker/static/js/main.e47c0f52.chunk.js",
+    "main.js.map": "/react-lol-champ-picker/static/js/main.e47c0f52.chunk.js.map",
+    "runtime-main.js": "/react-lol-champ-picker/static/js/runtime-main.0a68e3c2.js",
+    "runtime-main.js.map": "/react-lol-champ-picker/static/js/runtime-main.0a68e3c2.js.map",
+    "static/js/2.e1a0f1bd.chunk.js": "/react-lol-champ-picker/static/js/2.e1a0f1bd.chunk.js",
+    "static/js/2.e1a0f1bd.chunk.js.map": "/react-lol-champ-picker/static/js/2.e1a0f1bd.chunk.js.map",
+    "index.html": "/react-lol-champ-picker/index.html",
+    "precache-manifest.d082d951411bbd85dcfa05c06685b65b.js": "/react-lol-champ-picker/precache-manifest.d082d951411bbd85dcfa05c06685b65b.js",
+    "service-worker.js": "/react-lol-champ-picker/service-worker.js",
+    "static/css/main.53d6be6e.chunk.css.map": "/react-lol-champ-picker/static/css/main.53d6be6e.chunk.css.map",
+    "static/js/2.e1a0f1bd.chunk.js.LICENSE.txt": "/react-lol-champ-picker/static/js/2.e1a0f1bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a68e3c2.js",
+    "static/js/2.e1a0f1bd.chunk.js",
+    "static/css/main.53d6be6e.chunk.css",
+    "static/js/main.e47c0f52.chunk.js"
+  ]
+}
