@@ -1,0 +1,16 @@
+.sideBar {
+  text-align: left;
+  float: left;
+  width: 200px;
+  height: 550px;
+  display: block;
+  position: fixed;
+  border: 5px solid black;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 5px;
+  padding-top: 25px;
+}
+
+#champ-type {
+  padding-top: 15px;
+}

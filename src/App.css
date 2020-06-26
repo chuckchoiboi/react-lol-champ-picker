@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  width: 1100px;
+  margin: auto;
+}
+
+.champ-gallery {
+  display: inline-block;
+  margin-left: 221px;
+  float: left;
+  width: 660px;
+  height: 900px;
+}
